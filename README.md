@@ -37,15 +37,11 @@ Providing the all necessary information about the place.
 # Preview 
 Splash Screen 
 ![image](https://user-images.githubusercontent.com/85946153/154215076-ecb2bb57-f1c6-4645-bb75-bf4f0baef3d0.png)
-
 homescreen
 ![image](https://user-images.githubusercontent.com/85946153/154215791-d5eb3a85-bddc-41f1-910f-2a1129242643.png)
-
 FIND VILLAGE SCREEN:
 ![image](https://user-images.githubusercontent.com/85946153/154215951-8c99e18b-5740-4328-b3cc-92f117bd0f4b.png)
-
 SELECTION OF VILLAGE:
- 
  ![image](https://user-images.githubusercontent.com/85946153/154215969-b82f8fa0-56c2-4abf-918d-f88f2979372d.png)
 
 
