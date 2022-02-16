@@ -32,4 +32,11 @@ Providing the all necessary information about the place.
 
 4:Android version 4.0 or later
 
+# Preview
+
+
 5:Android SDK 17-30
+
+# Preview 
+![image](https://user-images.githubusercontent.com/85946153/154215076-ecb2bb57-f1c6-4645-bb75-bf4f0baef3d0.png)
+
