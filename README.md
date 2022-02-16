@@ -17,4 +17,5 @@ Providing the all necessary information about the place.
      CPU: - Intel core Pentium Dual-Core E5200  
      RAM: - 4GB 
      HDD: - 20 GB free Space 
+     
 •	Software specification (minimum)   Android Minimum SDK 9.0 pie
