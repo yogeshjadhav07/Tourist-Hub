@@ -21,9 +21,9 @@ Providing the all necessary information about the place.
 •	Software specification (minimum)   Android Minimum SDK 9.0 pie
 
 # Tools used
-Firebase Database
-Firebase Authentication
-Google Maps Api
-Android Studio IDE
-Android version 4.0 or later
-Android SDK 17-28
+1:Firebase Database
+2:Firebase Authentication
+
+3:Android Studio IDE
+4:Android version 4.0 or later
+5:Android SDK 17-30
