@@ -19,3 +19,11 @@ Providing the all necessary information about the place.
      HDD: - 20 GB free Space 
      
 •	Software specification (minimum)   Android Minimum SDK 9.0 pie
+
+# Tools used
+Firebase Database
+Firebase Authentication
+Google Maps Api
+Android Studio IDE
+Android version 4.0 or later
+Android SDK 17-28
