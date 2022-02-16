@@ -14,16 +14,22 @@ Providing the all necessary information about the place.
 
 # User Requirement 
 •	Hardware specification (in minimum) 
+
      CPU: - Intel core Pentium Dual-Core E5200  
+     
      RAM: - 4GB 
+     
      HDD: - 20 GB free Space 
      
 •	Software specification (minimum)   Android Minimum SDK 9.0 pie
 
 # Tools used
 1:Firebase Database
+
 2:Firebase Authentication
 
 3:Android Studio IDE
+
 4:Android version 4.0 or later
+
 5:Android SDK 17-30
